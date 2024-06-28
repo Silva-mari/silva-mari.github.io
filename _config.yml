@@ -22,6 +22,9 @@ github_username: Silva-mari
 minimal_mistakes_skin: "dark"
 search: true
 
+header:
+  image: /assets/images/18704.jpg
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
